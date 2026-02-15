@@ -29,6 +29,3 @@ Binary Search works only on a **sorted array**. It repeatedly divides the search
 - Best: O(1)
 - Average: O(log n)
 - Worst: O(log n)
-
-## How to Run
-Compile:
